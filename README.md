@@ -1,6 +1,8 @@
 Proyecto de PreEntrega react - Luca Uriel Tabaka
 
 Estructura de carpetas seguida:
+
+```bash
 src/
  ├── assets/          -> Para el logo
  ├── components/      -> Carpeta para componentes que dentro tiene otras carpetas con componentes especificos
@@ -10,6 +12,7 @@ src/
  ├── App.jsx          -> Estructura
  └── main.jsx         -> Punto de entrada 
 
+```
 
 Pasos para correr el proyecto:
 
