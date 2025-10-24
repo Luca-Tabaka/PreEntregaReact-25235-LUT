@@ -13,6 +13,7 @@ src/
  └── main.jsx         -> Punto de entrada 
 ```
 
+Api usada: https://dummyjson.com/products
 
 Pasos para correr el proyecto:
 ```bash
