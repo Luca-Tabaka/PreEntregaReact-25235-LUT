@@ -11,13 +11,14 @@ src/
  ├── data/            -> Datos simulados de usuario
  ├── App.jsx          -> Estructura
  └── main.jsx         -> Punto de entrada 
-
 ```
 
-Pasos para correr el proyecto:
 
+Pasos para correr el proyecto:
+```bash
 npm install para instalar todas las dependencias
 
 npm run dev para poder ejecutar el proyecto
 
 http://localhost:5173 para visualizar el proyecto en el browser
+
